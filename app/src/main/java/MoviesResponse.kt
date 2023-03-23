@@ -1,0 +1,1 @@
+class MoviesResponse : ArrayList<MoviesResponseItem>()
